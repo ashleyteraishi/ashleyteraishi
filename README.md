@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashleyteraishi
-- 👀 I’m interested in Software Development, Game Development, and UI/UX Design
+- 👀 I’m interested in Software Development and UI/UX Design
 - 🌱 I’m currently learning Software Engineering from California State University, Monterey Bay
 - 💞️ I’m looking to collaborate on fun, interesting projects 
 - 📫 How to reach me: You can contact me by email at a.teraishi@gmail.com
